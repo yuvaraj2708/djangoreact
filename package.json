@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react-rocketjump": "^3.0.0",
+    "react-router-dom": "^6.8.1",
+    "use-eazy-auth": "^2.6.0"
+  }
+}
